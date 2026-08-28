@@ -24,7 +24,7 @@ sources:
 
 ## Part 02 原始資訊
 
-Warfarin 相關腦出血以 4-factor PCC＋Vitamin K 逆轉。
+[[Warfarin]] 相關腦出血以 [[4-factor PCC]]＋Vitamin K 逆轉。
 
 ## 出現於
 
