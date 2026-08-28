@@ -14,3 +14,18 @@ title: PGY 值班生存手冊
 - [[Part 1/核心原則]]
 - [[Part 2/常見症狀]]
 - [[Drugs/藥物總覽]]
+
+
+
+更新：
+
+
+```
+cd "/Users/ray/Documents/PGY handbook"
+
+git status
+
+git add content
+git commit -m "Update clinical notes"
+git push
+```
