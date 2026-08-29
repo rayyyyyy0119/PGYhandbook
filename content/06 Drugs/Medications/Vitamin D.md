@@ -1,9 +1,13 @@
 ---
 title: Vitamin D
-aliases: [維生素 D]
-tags: [pgy-handbook, handbook/drug]
-categories: [高鈣, 低鈣]
-sources: ["《值班常見症狀與藥物處置 2026 年版》Part 04"]
+aliases:
+  - 維生素 D
+tags:
+  - pgy-handbook
+  - drug
+categories: []
+sources:
+  - 《值班常見症狀與藥物處置 2026 年版》Part 04
 ---
 
 # Vitamin D

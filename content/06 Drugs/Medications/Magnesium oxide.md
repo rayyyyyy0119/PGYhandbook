@@ -1,27 +1,27 @@
 ---
-title: "Magnesium oxide"
+title: Magnesium oxide
 aliases:
-  - "MgO"
-  - "Mag Mag"
-  - "Magnesium Oxide"
+  - MgO
+  - Mag Mag
+  - Magnesium Oxide
 tags:
   - pgy-handbook
-  - handbook/drug
+  - drug
+  - 胃藥
 categories:
-  - "便祕"
-  - "胃痛"
+  - 胃藥
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 02"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 02
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Magnesium oxide
 
 ## 基本資料
 
-- **Generic name：**Magnesium oxide
-- **商品名／院內別名：**MgO
-- **PDF 原始分類：**便祕、胃痛
+- Generic name：Magnesium oxide
+- 商品名／院內別名：MgO
+- PDF 原始分類：胃藥
 
 ## Part 02 原始資訊
 

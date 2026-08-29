@@ -1,8 +1,12 @@
 ---
 title: Rifaximin
 aliases: []
-tags: [pgy-handbook, handbook/drug]
-sources: ["《值班常見症狀與藥物處置 2026 年版》Part 06"]
+tags:
+  - pgy-handbook
+  - drug
+sources:
+  - 《值班常見症狀與藥物處置 2026 年版》Part 06
+categories: []
 ---
 
 # Rifaximin

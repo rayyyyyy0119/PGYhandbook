@@ -1,9 +1,21 @@
 ---
 title: Sodium chloride 0.9%
-aliases: [0.9% N/S, Normal saline, 生理食鹽水]
-tags: [pgy-handbook, handbook/drug, fluid]
-categories: [低血壓, 高鈣, 高鎂]
-sources: ["《值班常見症狀與藥物處置 2026 年版》Part 03、Part 04"]
+aliases:
+  - 0.9% N/S
+  - Normal saline
+  - 生理食鹽水
+tags:
+  - pgy-handbook
+  - drug
+  - fluid
+  - 電解質
+  - 常用點滴
+categories:
+  - 電解質
+  - 常用點滴
+sources:
+  - 《值班常見症狀與藥物處置 2026 年版》Part 03、Part 04
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Sodium chloride 0.9%

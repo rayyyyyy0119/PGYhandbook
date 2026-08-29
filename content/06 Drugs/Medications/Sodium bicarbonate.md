@@ -1,8 +1,22 @@
 ---
 title: Sodium bicarbonate
-aliases: [NaHCO3, NaHCO₃, 碳酸氫鈉]
-tags: [pgy-handbook, handbook/drug]
-sources: ["《值班常見症狀與藥物處置 2026 年版》Part 04、Part 06"]
+aliases:
+  - NaHCO3
+  - NaHCO₃
+  - 碳酸氫鈉
+tags:
+  - pgy-handbook
+  - drug
+  - 化痰
+  - 解毒劑
+  - 酸血
+sources:
+  - 《值班常見症狀與藥物處置 2026 年版》Part 04、Part 06
+  - 《值班藥物別名與使用頻率整理》2024-07-31
+categories:
+  - 化痰
+  - 解毒劑
+  - 酸血
 ---
 
 # Sodium bicarbonate

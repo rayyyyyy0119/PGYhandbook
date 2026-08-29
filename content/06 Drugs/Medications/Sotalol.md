@@ -1,8 +1,13 @@
 ---
 title: Sotalol
 aliases: []
-tags: [pgy-handbook, handbook/drug, drug/antiarrhythmic]
-sources: ["《值班常見症狀與藥物處置 2026 年版》Part 06"]
+tags:
+  - pgy-handbook
+  - drug
+  - drug/antiarrhythmic
+sources:
+  - 《值班常見症狀與藥物處置 2026 年版》Part 06
+categories: []
 ---
 
 # Sotalol

@@ -1,9 +1,12 @@
 ---
 title: Trimethoprim
 aliases: []
-tags: [pgy-handbook, handbook/drug]
-categories: [高鉀]
-sources: ["《值班常見症狀與藥物處置 2026 年版》Part 04"]
+tags:
+  - pgy-handbook
+  - drug
+categories: []
+sources:
+  - 《值班常見症狀與藥物處置 2026 年版》Part 04
 ---
 
 # Trimethoprim

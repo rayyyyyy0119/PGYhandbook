@@ -1,12 +1,12 @@
 ---
-title: "Cisplatin"
-aliases:
-  []
-tags: [pgy-handbook, handbook/drug]
-categories: ["低鎂"]
+title: Cisplatin
+aliases: []
+tags:
+  - pgy-handbook
+  - drug
+categories: []
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 04"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 04
 ---
 
 # Cisplatin

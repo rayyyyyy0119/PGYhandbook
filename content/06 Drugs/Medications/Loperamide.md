@@ -1,26 +1,27 @@
 ---
-title: "Loperamide"
+title: Loperamide
 aliases:
-  - "Imodium"
-  - "Imolex"
-  - "Miraton"
+  - Imodium
+  - Imolex
+  - Miraton
 tags:
   - pgy-handbook
-  - handbook/drug
+  - drug
+  - 腹瀉
 categories:
-  - "腹瀉"
+  - 腹瀉
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 02"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 02
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Loperamide
 
 ## 基本資料
 
-- **Generic name：**Loperamide
-- **商品名／院內別名：**Imodium
-- **PDF 原始分類：**腹瀉
+- Generic name：Loperamide
+- 商品名／院內別名：Imodium
+- PDF 原始分類：腹瀉
 
 ## Part 02 原始資訊
 

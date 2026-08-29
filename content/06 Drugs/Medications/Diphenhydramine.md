@@ -1,28 +1,29 @@
 ---
-title: "Diphenhydramine"
+title: Diphenhydramine
 aliases:
-  - "Vena"
-  - "Benamine"
-  - "Benadryl"
+  - Vena
+  - Benamine
+  - Benadryl
 tags:
   - pgy-handbook
-  - handbook/drug
+  - drug
+  - 止暈
+  - 安眠
 categories:
-  - "暈"
-  - "噁心嘔吐"
-  - "失眠"
+  - 止暈
+  - 安眠
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 02"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 02
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Diphenhydramine
 
 ## 基本資料
 
-- **Generic name：**Diphenhydramine
-- **商品名／院內別名：**Vena
-- **PDF 原始分類：**暈、噁心嘔吐、失眠
+- Generic name：Diphenhydramine
+- 商品名／院內別名：Vena
+- PDF 原始分類：止暈、安眠
 
 ## Part 02 原始資訊
 

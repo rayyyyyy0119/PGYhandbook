@@ -1,25 +1,26 @@
 ---
-title: "Terbutaline"
+title: Terbutaline
 aliases:
-  - "Bricanyl"
-  - "Butanyl"
+  - Bricanyl
+  - Butanyl
 tags:
   - pgy-handbook
-  - handbook/drug
+  - drug
+  - 呼吸喘
 categories:
-  - "呼吸喘"
+  - 呼吸喘
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 02"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 02
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Terbutaline
 
 ## 基本資料
 
-- **Generic name：**Terbutaline
-- **商品名／院內別名：**Bricanyl
-- **PDF 原始分類：**呼吸喘
+- Generic name：Terbutaline
+- 商品名／院內別名：Bricanyl
+- PDF 原始分類：呼吸喘
 
 ## Part 02 原始資訊
 

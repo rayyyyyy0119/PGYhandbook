@@ -1,26 +1,26 @@
 ---
-title: "Magnesium sulfate"
+title: Magnesium sulfate
 aliases:
-  - "MgSO4"
-  - "MgSO₄"
+  - MgSO4
+  - MgSO₄
 tags:
   - pgy-handbook
-  - handbook/drug
+  - drug
+  - 電解質
 categories:
-  - "呼吸喘"
-  - "癲癇"
+  - 電解質
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 02"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 02
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Magnesium sulfate
 
 ## 基本資料
 
-- **Generic name：**Magnesium sulfate
-- **商品名／院內別名：**MgSO4
-- **PDF 原始分類：**呼吸喘、癲癇
+- Generic name：Magnesium sulfate
+- 商品名／院內別名：MgSO4
+- PDF 原始分類：電解質
 
 ## Part 02 原始資訊
 

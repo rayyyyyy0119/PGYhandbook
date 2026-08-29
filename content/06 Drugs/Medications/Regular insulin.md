@@ -1,15 +1,18 @@
 ---
-title: "Regular insulin"
+title: Regular insulin
 aliases:
-  - "RI"
-  - "Actrapid HM"
-  - "Humulin R"
-tags: [pgy-handbook, handbook/drug]
+  - RI
+  - Actrapid HM
+  - Humulin R
+tags:
+  - pgy-handbook
+  - drug
+  - 血糖
 categories:
-  - "高血糖"
+  - 血糖
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 03"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 03
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Regular insulin

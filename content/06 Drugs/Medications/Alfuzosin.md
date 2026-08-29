@@ -1,23 +1,21 @@
 ---
-title: "Alfuzosin"
-aliases:
-  []
+title: Alfuzosin
+aliases: []
 tags:
   - pgy-handbook
-  - handbook/drug
-categories:
-  - "尿滯留"
+  - drug
+categories: []
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 02"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 02
 ---
 
 # Alfuzosin
 
 ## 基本資料
 
-- **Generic name：**Alfuzosin
-- **商品名／院內別名：**PDF 未列
-- **PDF 原始分類：**尿滯留
+- Generic name：Alfuzosin
+- 商品名／院內別名：PDF 未列
+- PDF 原始分類：未收錄於《值班藥物別名與使用頻率整理》
 
 ## Part 02 原始資訊
 

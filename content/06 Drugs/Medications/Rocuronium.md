@@ -1,25 +1,25 @@
 ---
-title: "Rocuronium"
+title: Rocuronium
 aliases:
-  - "Esmeron"
+  - Esmeron
 tags:
   - pgy-handbook
-  - handbook/drug
+  - drug
+  - 肌鬆
 categories:
-  - "呼吸喘"
-  - "譫妄與躁動"
+  - 肌鬆
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 02"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 02
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Rocuronium
 
 ## 基本資料
 
-- **Generic name：**Rocuronium
-- **商品名／院內別名：**Esmeron
-- **PDF 原始分類：**呼吸喘、譫妄與躁動
+- Generic name：Rocuronium
+- 商品名／院內別名：Esmeron
+- PDF 原始分類：肌鬆
 
 ## Part 02 原始資訊
 

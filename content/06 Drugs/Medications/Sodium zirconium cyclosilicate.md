@@ -1,12 +1,13 @@
 ---
-title: "Sodium zirconium cyclosilicate"
+title: Sodium zirconium cyclosilicate
 aliases:
-  - "Lokelma"
-tags: [pgy-handbook, handbook/drug]
-categories: ["高鉀"]
+  - Lokelma
+tags:
+  - pgy-handbook
+  - drug
+categories: []
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 04"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 04
 ---
 
 # Sodium zirconium cyclosilicate

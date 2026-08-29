@@ -1,25 +1,26 @@
 ---
-title: "Lansoprazole"
+title: Lansoprazole
 aliases:
-  - "Takepron"
-  - "Prevacid"
+  - Takepron
+  - Prevacid
 tags:
   - pgy-handbook
-  - handbook/drug
+  - drug
+  - 胃藥
 categories:
-  - "胃痛"
+  - 胃藥
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 02"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 02
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Lansoprazole
 
 ## 基本資料
 
-- **Generic name：**Lansoprazole
-- **商品名／院內別名：**Takepron
-- **PDF 原始分類：**胃痛
+- Generic name：Lansoprazole
+- 商品名／院內別名：Takepron
+- PDF 原始分類：胃藥
 
 ## Part 02 原始資訊
 

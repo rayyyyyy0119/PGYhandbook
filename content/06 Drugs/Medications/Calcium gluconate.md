@@ -1,12 +1,16 @@
 ---
-title: "Calcium gluconate"
+title: Calcium gluconate
 aliases:
-  - "Calglon"
-tags: [pgy-handbook, handbook/drug]
-categories: ["高鉀、低鈣、高鎂"]
+  - Calglon
+tags:
+  - pgy-handbook
+  - drug
+  - 電解質
+categories:
+  - 電解質
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 04"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 04
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Calcium gluconate

@@ -1,26 +1,27 @@
 ---
-title: "Vitamin K"
+title: Vitamin K
 aliases:
-  - "Vitamin K1"
-  - "Katimin"
-  - "Phytomenadione"
+  - Vitamin K1
+  - Katimin
+  - Phytomenadione
 tags:
   - pgy-handbook
-  - handbook/drug
+  - drug
+  - 止血
 categories:
-  - "腦出血"
+  - 止血
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 02"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 02
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Vitamin K
 
 ## 基本資料
 
-- **Generic name：**Vitamin K
-- **商品名／院內別名：**PDF 未列
-- **PDF 原始分類：**腦出血
+- Generic name：Vitamin K
+- 商品名／院內別名：PDF 未列
+- PDF 原始分類：止血
 
 ## Part 02 原始資訊
 

@@ -1,32 +1,35 @@
 ---
-title: "Metoclopramide"
+title: Metoclopramide
 aliases:
-  - "Primperan"
-  - "Pulin"
-  - "Metoperan"
-  - "Chiaowelgen"
-  - "Promeran"
-  - "Prometin"
-  - "Aswell"
+  - Primperan
+  - Pulin
+  - Metoperan
+  - Chiaowelgen
+  - Promeran
+  - Prometin
+  - Aswell
 tags:
   - pgy-handbook
-  - handbook/drug
+  - drug
+  - 止吐
+  - 便祕
+  - 打嗝
 categories:
-  - "噁心嘔吐"
-  - "便祕"
-  - "脹氣與打嗝"
+  - 止吐
+  - 便祕
+  - 打嗝
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 02"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 02
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Metoclopramide
 
 ## 基本資料
 
-- **Generic name：**Metoclopramide
-- **商品名／院內別名：**Primperan
-- **PDF 原始分類：**噁心嘔吐、便祕、脹氣與打嗝
+- Generic name：Metoclopramide
+- 商品名／院內別名：Primperan
+- PDF 原始分類：止吐、便祕、打嗝
 
 ## Part 02 原始資訊
 

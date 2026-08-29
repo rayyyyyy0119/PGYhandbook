@@ -1,25 +1,26 @@
 ---
-title: "Propofol"
+title: Propofol
 aliases:
-  - "Fresofol"
-  - "Diprivan"
+  - Fresofol
+  - Diprivan
 tags:
   - pgy-handbook
-  - handbook/drug
+  - drug
+  - 鎮靜
 categories:
-  - "癲癇"
+  - 鎮靜
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 02"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 02
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Propofol
 
 ## 基本資料
 
-- **Generic name：**Propofol
-- **商品名／院內別名：**PDF 未列
-- **PDF 原始分類：**癲癇
+- Generic name：Propofol
+- 商品名／院內別名：PDF 未列
+- PDF 原始分類：鎮靜
 
 ## Part 02 原始資訊
 

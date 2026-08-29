@@ -1,27 +1,28 @@
 ---
-title: "Diosmectite"
+title: Diosmectite
 aliases:
-  - "Smecta"
-  - "SmectaR"
-  - "Dioctahedral smectite"
-  - "舒腹達"
+  - Smecta
+  - SmectaR
+  - Dioctahedral smectite
+  - 舒腹達
 tags:
   - pgy-handbook
-  - handbook/drug
+  - drug
+  - 腹瀉
 categories:
-  - "腹瀉"
+  - 腹瀉
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 02"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 02
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Diosmectite
 
 ## 基本資料
 
-- **Generic name：**Diosmectite
-- **商品名／院內別名：**Smecta、Dioctahedral smectite
-- **PDF 原始分類：**腹瀉
+- Generic name：Diosmectite
+- 商品名／院內別名：Smecta、Dioctahedral smectite
+- PDF 原始分類：腹瀉
 
 ## Part 02 原始資訊
 

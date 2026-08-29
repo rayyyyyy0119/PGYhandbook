@@ -1,24 +1,25 @@
 ---
-title: "Cisatracurium"
+title: Cisatracurium
 aliases:
-  - "Nimbex"
+  - Nimbex
 tags:
   - pgy-handbook
-  - handbook/drug
+  - drug
+  - 肌鬆
 categories:
-  - "譫妄與躁動"
+  - 肌鬆
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 02"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 02
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Cisatracurium
 
 ## 基本資料
 
-- **Generic name：**Cisatracurium
-- **商品名／院內別名：**Nimbex
-- **PDF 原始分類：**譫妄與躁動
+- Generic name：Cisatracurium
+- 商品名／院內別名：Nimbex
+- PDF 原始分類：肌鬆
 
 ## Part 02 原始資訊
 

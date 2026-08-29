@@ -1,25 +1,26 @@
 ---
-title: "Chlorpromazine"
+title: Chlorpromazine
 aliases:
-  - "Wintermin"
-  - "Winsumin"
+  - Wintermin
+  - Winsumin
 tags:
   - pgy-handbook
-  - handbook/drug
+  - drug
+  - 打嗝
 categories:
-  - "脹氣與打嗝"
+  - 打嗝
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 02"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 02
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Chlorpromazine
 
 ## 基本資料
 
-- **Generic name：**Chlorpromazine
-- **商品名／院內別名：**Wintermin
-- **PDF 原始分類：**脹氣與打嗝
+- Generic name：Chlorpromazine
+- 商品名／院內別名：Wintermin
+- PDF 原始分類：打嗝
 
 ## Part 02 原始資訊
 

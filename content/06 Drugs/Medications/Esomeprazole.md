@@ -1,27 +1,28 @@
 ---
-title: "Esomeprazole"
+title: Esomeprazole
 aliases:
-  - "Nexium"
-  - "Esmozole"
-  - "奈適恩"
-  - "Esocomfort"
+  - Nexium
+  - Esmozole
+  - 奈適恩
+  - Esocomfort
 tags:
   - pgy-handbook
-  - handbook/drug
+  - drug
+  - 胃藥
 categories:
-  - "胃痛"
+  - 胃藥
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 02"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 02
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Esomeprazole
 
 ## 基本資料
 
-- **Generic name：**Esomeprazole
-- **商品名／院內別名：**Nexium
-- **PDF 原始分類：**胃痛
+- Generic name：Esomeprazole
+- 商品名／院內別名：Nexium
+- PDF 原始分類：胃藥
 
 ## Part 02 原始資訊
 

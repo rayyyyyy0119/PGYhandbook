@@ -1,25 +1,26 @@
 ---
-title: "Difenidol"
+title: Difenidol
 aliases:
-  - "Cephadol"
-  - "Sinphadol"
+  - Cephadol
+  - Sinphadol
 tags:
   - pgy-handbook
-  - handbook/drug
+  - drug
+  - 止暈
 categories:
-  - "暈"
+  - 止暈
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 02"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 02
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Difenidol
 
 ## 基本資料
 
-- **Generic name：**Difenidol
-- **商品名／院內別名：**Cephadol
-- **PDF 原始分類：**暈
+- Generic name：Difenidol
+- 商品名／院內別名：Cephadol
+- PDF 原始分類：止暈
 
 ## Part 02 原始資訊
 

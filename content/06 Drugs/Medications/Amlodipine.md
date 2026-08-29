@@ -1,14 +1,17 @@
 ---
-title: "Amlodipine"
+title: Amlodipine
 aliases:
-  - "Norvasc"
-  - "脈優"
-tags: [pgy-handbook, handbook/drug]
+  - Norvasc
+  - 脈優
+tags:
+  - pgy-handbook
+  - drug
+  - 血壓
 categories:
-  - "高血壓"
+  - 血壓
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 03"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 03
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Amlodipine

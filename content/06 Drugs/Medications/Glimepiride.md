@@ -1,16 +1,18 @@
 ---
-title: "Glimepiride"
+title: Glimepiride
 aliases:
-  - "Amaryl"
-  - "Glimaryl"
-  - "Amepiride"
-tags: [pgy-handbook, handbook/drug]
+  - Amaryl
+  - Glimaryl
+  - Amepiride
+tags:
+  - pgy-handbook
+  - drug
+  - 血糖
 categories:
-  - "高血糖"
-  - "低血糖"
+  - 血糖
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 03"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 03
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Glimepiride

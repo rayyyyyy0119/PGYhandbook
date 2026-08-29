@@ -1,25 +1,25 @@
 ---
-title: "Midazolam"
+title: Midazolam
 aliases:
-  - "Dormicum"
+  - Dormicum
 tags:
   - pgy-handbook
-  - handbook/drug
+  - drug
+  - 鎮靜
 categories:
-  - "呼吸喘"
-  - "癲癇"
+  - 鎮靜
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 02"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 02
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Midazolam
 
 ## 基本資料
 
-- **Generic name：**Midazolam
-- **商品名／院內別名：**Dormicum
-- **PDF 原始分類：**呼吸喘、癲癇
+- Generic name：Midazolam
+- 商品名／院內別名：Dormicum
+- PDF 原始分類：鎮靜
 
 ## Part 02 原始資訊
 

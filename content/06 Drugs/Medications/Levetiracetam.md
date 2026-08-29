@@ -1,25 +1,26 @@
 ---
-title: "Levetiracetam"
+title: Levetiracetam
 aliases:
-  - "Keppra"
-  - "Levim"
+  - Keppra
+  - Levim
 tags:
   - pgy-handbook
-  - handbook/drug
+  - drug
+  - 癲癇
 categories:
-  - "癲癇"
+  - 癲癇
 sources:
-  - "《值班常見症狀與藥物處置 2026 年版》Part 02"
-  - "《值班藥物別名與使用頻率整理》2024-07-31"
+  - 《值班常見症狀與藥物處置 2026 年版》Part 02
+  - 《值班藥物別名與使用頻率整理》2024-07-31
 ---
 
 # Levetiracetam
 
 ## 基本資料
 
-- **Generic name：**Levetiracetam
-- **商品名／院內別名：**Keppra
-- **PDF 原始分類：**癲癇
+- Generic name：Levetiracetam
+- 商品名／院內別名：Keppra
+- PDF 原始分類：癲癇
 
 ## Part 02 原始資訊
 
